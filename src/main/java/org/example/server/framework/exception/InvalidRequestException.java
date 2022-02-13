@@ -1,4 +1,4 @@
-package org.example.server.exception;
+package org.example.server.framework.exception;
 
 public class InvalidRequestException extends RuntimeException {
     public InvalidRequestException() {
